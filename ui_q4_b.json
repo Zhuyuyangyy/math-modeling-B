@@ -1,0 +1,17 @@
+﻿{
+  "success": true,
+  "command": "inspect",
+  "data": {
+    "success": false,
+    "window": "",
+    "window_handle": 0,
+    "element_count": 0,
+    "root_elements": [],
+    "error": "Window not found: 无线电干扰源环境模拟器"
+  },
+  "error": null,
+  "error_code": null,
+  "hint": null,
+  "trace_id": "15045663",
+  "timestamp": "2026-09-11T05:41:32.4085412Z"
+}

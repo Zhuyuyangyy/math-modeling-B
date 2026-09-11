@@ -1,0 +1,1611 @@
+﻿{
+  "success": true,
+  "command": "inspect",
+  "data": {
+    "success": true,
+    "window": "无线电干扰源环境模拟器",
+    "window_handle": 1774074,
+    "element_count": 77,
+    "root_elements": [
+      {
+        "id": "e1",
+        "name": "无线电干扰源环境模拟器",
+        "automation_id": "",
+        "control_type": "Window",
+        "class_name": "WailsWebviewWindow",
+        "bounding_box": {
+          "x": 633,
+          "y": 61,
+          "width": 1920,
+          "height": 1200
+        },
+        "is_enabled": true,
+        "is_visible": true,
+        "patterns": [
+          "WindowPatternIdentifiers.Pattern",
+          "TransformPatternIdentifiers.Pattern"
+        ],
+        "value": null,
+        "children": [
+          {
+            "id": "e2",
+            "name": "无线电干扰源环境模拟器",
+            "automation_id": "",
+            "control_type": "Pane",
+            "class_name": "Chrome_WidgetWin_1",
+            "bounding_box": {
+              "x": 644,
+              "y": 106,
+              "width": 1898,
+              "height": 1144
+            },
+            "is_enabled": true,
+            "is_visible": true,
+            "patterns": [
+              "ScrollItemPatternIdentifiers.Pattern",
+              "ItemContainerPatternIdentifiers.Pattern"
+            ],
+            "value": null,
+            "children": [
+              {
+                "id": "e3",
+                "name": "",
+                "automation_id": "",
+                "control_type": "Pane",
+                "class_name": "Intermediate D3D Window",
+                "bounding_box": {
+                  "x": 644,
+                  "y": 106,
+                  "width": 1898,
+                  "height": 1144
+                },
+                "is_enabled": false,
+                "is_visible": true,
+                "patterns": [],
+                "value": null,
+                "children": []
+              },
+              {
+                "id": "e4",
+                "name": "无线电干扰源环境模拟器 - Web 内容",
+                "automation_id": "",
+                "control_type": "Pane",
+                "class_name": "BrowserRootView",
+                "bounding_box": {
+                  "x": 644,
+                  "y": 107,
+                  "width": 1899,
+                  "height": 1145
+                },
+                "is_enabled": true,
+                "is_visible": true,
+                "patterns": [
+                  "ScrollItemPatternIdentifiers.Pattern"
+                ],
+                "value": null,
+                "children": [
+                  {
+                    "id": "e5",
+                    "name": "",
+                    "automation_id": "",
+                    "control_type": "Pane",
+                    "class_name": "NonClientView",
+                    "bounding_box": {
+                      "x": 644,
+                      "y": 107,
+                      "width": 1899,
+                      "height": 1145
+                    },
+                    "is_enabled": true,
+                    "is_visible": true,
+                    "patterns": [
+                      "ScrollItemPatternIdentifiers.Pattern"
+                    ],
+                    "value": null,
+                    "children": [
+                      {
+                        "id": "e6",
+                        "name": "",
+                        "automation_id": "",
+                        "control_type": "Pane",
+                        "class_name": "EmbeddedBrowserTabRootView",
+                        "bounding_box": null,
+                        "is_enabled": true,
+                        "is_visible": true,
+                        "patterns": [
+                          "ScrollItemPatternIdentifiers.Pattern"
+                        ],
+                        "value": null,
+                        "children": []
+                      },
+                      {
+                        "id": "e7",
+                        "name": "",
+                        "automation_id": "",
+                        "control_type": "Pane",
+                        "class_name": "EmbeddedBrowserFrameView",
+                        "bounding_box": {
+                          "x": 644,
+                          "y": 107,
+                          "width": 1899,
+                          "height": 1145
+                        },
+                        "is_enabled": true,
+                        "is_visible": true,
+                        "patterns": [
+                          "ScrollItemPatternIdentifiers.Pattern"
+                        ],
+                        "value": null,
+                        "children": [
+                          {
+                            "id": "e8",
+                            "name": "",
+                            "automation_id": "",
+                            "control_type": "Pane",
+                            "class_name": "BrowserView",
+                            "bounding_box": {
+                              "x": 644,
+                              "y": 107,
+                              "width": 1899,
+                              "height": 1145
+                            },
+                            "is_enabled": true,
+                            "is_visible": true,
+                            "patterns": [
+                              "ScrollItemPatternIdentifiers.Pattern"
+                            ],
+                            "value": null,
+                            "children": [
+                              {
+                                "id": "e9",
+                                "name": "",
+                                "automation_id": "",
+                                "control_type": "Pane",
+                                "class_name": "TopContainerView",
+                                "bounding_box": null,
+                                "is_enabled": true,
+                                "is_visible": true,
+                                "patterns": [
+                                  "ScrollItemPatternIdentifiers.Pattern"
+                                ],
+                                "value": null,
+                                "children": []
+                              },
+                              {
+                                "id": "e10",
+                                "name": "",
+                                "automation_id": "",
+                                "control_type": "Pane",
+                                "class_name": "SidebarContentsSplitView",
+                                "bounding_box": {
+                                  "x": 644,
+                                  "y": 107,
+                                  "width": 1899,
+                                  "height": 1145
+                                },
+                                "is_enabled": true,
+                                "is_visible": true,
+                                "patterns": [
+                                  "ScrollItemPatternIdentifiers.Pattern"
+                                ],
+                                "value": null,
+                                "children": [
+                                  {
+                                    "id": "e11",
+                                    "name": "",
+                                    "automation_id": "",
+                                    "control_type": "Pane",
+                                    "class_name": "SidebarContentsSplitView",
+                                    "bounding_box": {
+                                      "x": 644,
+                                      "y": 107,
+                                      "width": 1899,
+                                      "height": 1145
+                                    },
+                                    "is_enabled": true,
+                                    "is_visible": true,
+                                    "patterns": [
+                                      "ScrollItemPatternIdentifiers.Pattern"
+                                    ],
+                                    "value": null,
+                                    "children": [
+                                      {
+                                        "id": "e12",
+                                        "name": "",
+                                        "automation_id": "",
+                                        "control_type": "Pane",
+                                        "class_name": "View",
+                                        "bounding_box": {
+                                          "x": 644,
+                                          "y": 107,
+                                          "width": 1899,
+                                          "height": 1145
+                                        },
+                                        "is_enabled": true,
+                                        "is_visible": true,
+                                        "patterns": [
+                                          "ScrollItemPatternIdentifiers.Pattern"
+                                        ],
+                                        "value": null,
+                                        "children": [
+                                          {
+                                            "id": "e13",
+                                            "name": "",
+                                            "automation_id": "",
+                                            "control_type": "Pane",
+                                            "class_name": "MultiContentsView",
+                                            "bounding_box": {
+                                              "x": 644,
+                                              "y": 107,
+                                              "width": 1899,
+                                              "height": 1145
+                                            },
+                                            "is_enabled": true,
+                                            "is_visible": true,
+                                            "patterns": [
+                                              "ScrollItemPatternIdentifiers.Pattern"
+                                            ],
+                                            "value": null,
+                                            "children": [
+                                              {
+                                                "id": "e14",
+                                                "name": "",
+                                                "automation_id": "",
+                                                "control_type": "Pane",
+                                                "class_name": "View",
+                                                "bounding_box": {
+                                                  "x": 644,
+                                                  "y": 107,
+                                                  "width": 1899,
+                                                  "height": 1145
+                                                },
+                                                "is_enabled": true,
+                                                "is_visible": true,
+                                                "patterns": [
+                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                ],
+                                                "value": null,
+                                                "children": [
+                                                  {
+                                                    "id": "e15",
+                                                    "name": "",
+                                                    "automation_id": "",
+                                                    "control_type": "Pane",
+                                                    "class_name": "View",
+                                                    "bounding_box": null,
+                                                    "is_enabled": true,
+                                                    "is_visible": true,
+                                                    "patterns": [
+                                                      "ScrollItemPatternIdentifiers.Pattern"
+                                                    ],
+                                                    "value": null,
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "id": "e16",
+                                                    "name": "无线电干扰源环境模拟器",
+                                                    "automation_id": "RootWebArea",
+                                                    "control_type": "Document",
+                                                    "class_name": "",
+                                                    "bounding_box": {
+                                                      "x": 644,
+                                                      "y": 107,
+                                                      "width": 1899,
+                                                      "height": 1145
+                                                    },
+                                                    "is_enabled": true,
+                                                    "is_visible": true,
+                                                    "patterns": [
+                                                      "ValuePatternIdentifiers.Pattern",
+                                                      "ScrollPatternIdentifiers.Pattern",
+                                                      "TextPatternIdentifiers.Pattern",
+                                                      "ScrollItemPatternIdentifiers.Pattern"
+                                                    ],
+                                                    "value": "http://wails.localhost/",
+                                                    "children": [
+                                                      {
+                                                        "id": "e17",
+                                                        "name": "",
+                                                        "automation_id": "",
+                                                        "control_type": "Group",
+                                                        "class_name": "sidebar",
+                                                        "bounding_box": {
+                                                          "x": 644,
+                                                          "y": 107,
+                                                          "width": 306,
+                                                          "height": 1145
+                                                        },
+                                                        "is_enabled": true,
+                                                        "is_visible": true,
+                                                        "patterns": [
+                                                          "ScrollItemPatternIdentifiers.Pattern"
+                                                        ],
+                                                        "value": null,
+                                                        "children": [
+                                                          {
+                                                            "id": "e18",
+                                                            "name": "",
+                                                            "automation_id": "",
+                                                            "control_type": "Group",
+                                                            "class_name": "sidebar-brand",
+                                                            "bounding_box": {
+                                                              "x": 644,
+                                                              "y": 107,
+                                                              "width": 305,
+                                                              "height": 96
+                                                            },
+                                                            "is_enabled": true,
+                                                            "is_visible": true,
+                                                            "patterns": [
+                                                              "ScrollItemPatternIdentifiers.Pattern"
+                                                            ],
+                                                            "value": null,
+                                                            "children": [
+                                                              {
+                                                                "id": "e19",
+                                                                "name": "环境模拟器",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "",
+                                                                "bounding_box": {
+                                                                  "x": 737,
+                                                                  "y": 139,
+                                                                  "width": 113,
+                                                                  "height": 31
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "TextPatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "id": "e20",
+                                                            "name": "主导航",
+                                                            "automation_id": "",
+                                                            "control_type": "Group",
+                                                            "class_name": "sidebar-nav",
+                                                            "bounding_box": {
+                                                              "x": 644,
+                                                              "y": 203,
+                                                              "width": 305,
+                                                              "height": 986
+                                                            },
+                                                            "is_enabled": true,
+                                                            "is_visible": true,
+                                                            "patterns": [
+                                                              "ScrollItemPatternIdentifiers.Pattern"
+                                                            ],
+                                                            "value": null,
+                                                            "children": [
+                                                              {
+                                                                "id": "e21",
+                                                                "name": "测试",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "",
+                                                                "bounding_box": {
+                                                                  "x": 674,
+                                                                  "y": 218,
+                                                                  "width": 33,
+                                                                  "height": 22
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "TextPatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e22",
+                                                                "name": "演练测试",
+                                                                "automation_id": "",
+                                                                "control_type": "Button",
+                                                                "class_name": "nav-item active",
+                                                                "bounding_box": {
+                                                                  "x": 659,
+                                                                  "y": 249,
+                                                                  "width": 158,
+                                                                  "height": 57
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "InvokePatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e23",
+                                                                "name": "正式测试",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "",
+                                                                "bounding_box": {
+                                                                  "x": 674,
+                                                                  "y": 346,
+                                                                  "width": 66,
+                                                                  "height": 22
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "TextPatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e24",
+                                                                "name": "问题3正式测试",
+                                                                "automation_id": "",
+                                                                "control_type": "Button",
+                                                                "class_name": "nav-item",
+                                                                "bounding_box": {
+                                                                  "x": 659,
+                                                                  "y": 377,
+                                                                  "width": 211,
+                                                                  "height": 57
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "InvokePatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e25",
+                                                                "name": "问题4正式测试",
+                                                                "automation_id": "",
+                                                                "control_type": "Button",
+                                                                "class_name": "nav-item",
+                                                                "bounding_box": {
+                                                                  "x": 659,
+                                                                  "y": 440,
+                                                                  "width": 211,
+                                                                  "height": 57
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "InvokePatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e26",
+                                                                "name": "其他",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "",
+                                                                "bounding_box": {
+                                                                  "x": 674,
+                                                                  "y": 537,
+                                                                  "width": 33,
+                                                                  "height": 22
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "TextPatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e27",
+                                                                "name": "公告",
+                                                                "automation_id": "",
+                                                                "control_type": "Button",
+                                                                "class_name": "nav-item",
+                                                                "bounding_box": {
+                                                                  "x": 659,
+                                                                  "y": 568,
+                                                                  "width": 116,
+                                                                  "height": 57
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "InvokePatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e28",
+                                                                "name": "账号",
+                                                                "automation_id": "",
+                                                                "control_type": "Button",
+                                                                "class_name": "nav-item",
+                                                                "bounding_box": {
+                                                                  "x": 659,
+                                                                  "y": 631,
+                                                                  "width": 116,
+                                                                  "height": 57
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "InvokePatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e29",
+                                                                "name": "设置",
+                                                                "automation_id": "",
+                                                                "control_type": "Button",
+                                                                "class_name": "nav-item",
+                                                                "bounding_box": {
+                                                                  "x": 659,
+                                                                  "y": 694,
+                                                                  "width": 116,
+                                                                  "height": 57
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "InvokePatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e30",
+                                                                "name": "关于",
+                                                                "automation_id": "",
+                                                                "control_type": "Button",
+                                                                "class_name": "nav-item",
+                                                                "bounding_box": {
+                                                                  "x": 659,
+                                                                  "y": 757,
+                                                                  "width": 116,
+                                                                  "height": 57
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "InvokePatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "id": "e31",
+                                                            "name": "v1.1",
+                                                            "automation_id": "",
+                                                            "control_type": "Text",
+                                                            "class_name": "",
+                                                            "bounding_box": {
+                                                              "x": 674,
+                                                              "y": 1210,
+                                                              "width": 30,
+                                                              "height": 22
+                                                            },
+                                                            "is_enabled": true,
+                                                            "is_visible": true,
+                                                            "patterns": [
+                                                              "TextPatternIdentifiers.Pattern",
+                                                              "ScrollItemPatternIdentifiers.Pattern"
+                                                            ],
+                                                            "value": null,
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "id": "e32",
+                                                        "name": "",
+                                                        "automation_id": "",
+                                                        "control_type": "Group",
+                                                        "class_name": "workspace-header",
+                                                        "bounding_box": {
+                                                          "x": 950,
+                                                          "y": 107,
+                                                          "width": 1593,
+                                                          "height": 96
+                                                        },
+                                                        "is_enabled": true,
+                                                        "is_visible": true,
+                                                        "patterns": [
+                                                          "ScrollItemPatternIdentifiers.Pattern"
+                                                        ],
+                                                        "value": null,
+                                                        "children": [
+                                                          {
+                                                            "id": "e33",
+                                                            "name": "无线电干扰源环境模拟器",
+                                                            "automation_id": "",
+                                                            "control_type": "Text",
+                                                            "class_name": "",
+                                                            "bounding_box": {
+                                                              "x": 986,
+                                                              "y": 127,
+                                                              "width": 231,
+                                                              "height": 28
+                                                            },
+                                                            "is_enabled": true,
+                                                            "is_visible": true,
+                                                            "patterns": [
+                                                              "TextPatternIdentifiers.Pattern",
+                                                              "ScrollItemPatternIdentifiers.Pattern"
+                                                            ],
+                                                            "value": null,
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "id": "e34",
+                                                            "name": "2026年9月13日17:30之后无法启动新的演练测试或正式测试",
+                                                            "automation_id": "",
+                                                            "control_type": "Text",
+                                                            "class_name": "",
+                                                            "bounding_box": {
+                                                              "x": 986,
+                                                              "y": 158,
+                                                              "width": 479,
+                                                              "height": 24
+                                                            },
+                                                            "is_enabled": true,
+                                                            "is_visible": true,
+                                                            "patterns": [
+                                                              "TextPatternIdentifiers.Pattern",
+                                                              "ScrollItemPatternIdentifiers.Pattern"
+                                                            ],
+                                                            "value": null,
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "id": "e35",
+                                                            "name": "服务器已连接",
+                                                            "automation_id": "",
+                                                            "control_type": "StatusBar",
+                                                            "class_name": "connection-status connection-connected",
+                                                            "bounding_box": {
+                                                              "x": 2128,
+                                                              "y": 132,
+                                                              "width": 93,
+                                                              "height": 45
+                                                            },
+                                                            "is_enabled": true,
+                                                            "is_visible": true,
+                                                            "patterns": [
+                                                              "ScrollItemPatternIdentifiers.Pattern"
+                                                            ],
+                                                            "value": null,
+                                                            "children": [
+                                                              {
+                                                                "id": "e36",
+                                                                "name": "已连接",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "",
+                                                                "bounding_box": {
+                                                                  "x": 2161,
+                                                                  "y": 141,
+                                                                  "width": 60,
+                                                                  "height": 27
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "TextPatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "id": "e37",
+                                                            "name": "队号 202612076016",
+                                                            "automation_id": "",
+                                                            "control_type": "Text",
+                                                            "class_name": "",
+                                                            "bounding_box": {
+                                                              "x": 2263,
+                                                              "y": 140,
+                                                              "width": 184,
+                                                              "height": 29
+                                                            },
+                                                            "is_enabled": true,
+                                                            "is_visible": true,
+                                                            "patterns": [
+                                                              "TextPatternIdentifiers.Pattern",
+                                                              "ScrollItemPatternIdentifiers.Pattern"
+                                                            ],
+                                                            "value": null,
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "id": "e38",
+                                                            "name": "退出登录",
+                                                            "automation_id": "",
+                                                            "control_type": "Button",
+                                                            "class_name": "icon-button",
+                                                            "bounding_box": {
+                                                              "x": 2468,
+                                                              "y": 132,
+                                                              "width": 45,
+                                                              "height": 45
+                                                            },
+                                                            "is_enabled": true,
+                                                            "is_visible": true,
+                                                            "patterns": [
+                                                              "InvokePatternIdentifiers.Pattern",
+                                                              "ScrollItemPatternIdentifiers.Pattern"
+                                                            ],
+                                                            "value": null,
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "id": "e39",
+                                                        "name": "",
+                                                        "automation_id": "",
+                                                        "control_type": "Group",
+                                                        "class_name": "announcement-bar",
+                                                        "bounding_box": {
+                                                          "x": 950,
+                                                          "y": 203,
+                                                          "width": 1593,
+                                                          "height": 130
+                                                        },
+                                                        "is_enabled": true,
+                                                        "is_visible": true,
+                                                        "patterns": [
+                                                          "ScrollItemPatternIdentifiers.Pattern"
+                                                        ],
+                                                        "value": null,
+                                                        "children": [
+                                                          {
+                                                            "id": "e40",
+                                                            "name": "- 重要提醒：正式测试没有上传完成时，不要退出模拟器！\n- 重要提醒：各参赛队在附录中、支撑材料中提交代码时，注意将参赛队号隐去或使用占位符代替，以免违规。建议不要将参赛队号在程序中写死，而是以命令行参数等方式提供。",
+                                                            "automation_id": "",
+                                                            "control_type": "Text",
+                                                            "class_name": "",
+                                                            "bounding_box": {
+                                                              "x": 1028,
+                                                              "y": 221,
+                                                              "width": 1422,
+                                                              "height": 94
+                                                            },
+                                                            "is_enabled": true,
+                                                            "is_visible": true,
+                                                            "patterns": [
+                                                              "TextPatternIdentifiers.Pattern",
+                                                              "ScrollItemPatternIdentifiers.Pattern"
+                                                            ],
+                                                            "value": null,
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "id": "e41",
+                                                            "name": "关闭公告",
+                                                            "automation_id": "",
+                                                            "control_type": "Button",
+                                                            "class_name": "announcement-dismiss",
+                                                            "bounding_box": {
+                                                              "x": 2465,
+                                                              "y": 219,
+                                                              "width": 48,
+                                                              "height": 48
+                                                            },
+                                                            "is_enabled": true,
+                                                            "is_visible": true,
+                                                            "patterns": [
+                                                              "InvokePatternIdentifiers.Pattern",
+                                                              "ScrollItemPatternIdentifiers.Pattern"
+                                                            ],
+                                                            "value": null,
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "id": "e42",
+                                                        "name": "",
+                                                        "automation_id": "",
+                                                        "control_type": "Group",
+                                                        "class_name": "workspace-main test-run-workspace",
+                                                        "bounding_box": {
+                                                          "x": 950,
+                                                          "y": 332,
+                                                          "width": 1593,
+                                                          "height": 920
+                                                        },
+                                                        "is_enabled": true,
+                                                        "is_visible": true,
+                                                        "patterns": [
+                                                          "ScrollItemPatternIdentifiers.Pattern"
+                                                        ],
+                                                        "value": null,
+                                                        "children": [
+                                                          {
+                                                            "id": "e43",
+                                                            "name": "问题-- 演练 测试",
+                                                            "automation_id": "",
+                                                            "control_type": "Group",
+                                                            "class_name": "page test-run-page",
+                                                            "bounding_box": {
+                                                              "x": 986,
+                                                              "y": 368,
+                                                              "width": 1521,
+                                                              "height": 848
+                                                            },
+                                                            "is_enabled": true,
+                                                            "is_visible": true,
+                                                            "patterns": [
+                                                              "ScrollItemPatternIdentifiers.Pattern"
+                                                            ],
+                                                            "value": null,
+                                                            "children": [
+                                                              {
+                                                                "id": "e44",
+                                                                "name": "问题-- 演练 测试",
+                                                                "automation_id": "test-run-title",
+                                                                "control_type": "Text",
+                                                                "class_name": "run-title",
+                                                                "bounding_box": {
+                                                                  "x": 986,
+                                                                  "y": 371,
+                                                                  "width": 264,
+                                                                  "height": 46
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e45",
+                                                                "name": "",
+                                                                "automation_id": "",
+                                                                "control_type": "StatusBar",
+                                                                "class_name": "running-state",
+                                                                "bounding_box": {
+                                                                  "x": 2344,
+                                                                  "y": 368,
+                                                                  "width": 163,
+                                                                  "height": 52
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": [
+                                                                  {
+                                                                    "id": "e46",
+                                                                    "name": "等待测试状态",
+                                                                    "automation_id": "",
+                                                                    "control_type": "Text",
+                                                                    "class_name": "",
+                                                                    "bounding_box": {
+                                                                      "x": 2383,
+                                                                      "y": 382,
+                                                                      "width": 108,
+                                                                      "height": 25
+                                                                    },
+                                                                    "is_enabled": true,
+                                                                    "is_visible": true,
+                                                                    "patterns": [
+                                                                      "TextPatternIdentifiers.Pattern",
+                                                                      "ScrollItemPatternIdentifiers.Pattern"
+                                                                    ],
+                                                                    "value": null,
+                                                                    "children": []
+                                                                  }
+                                                                ]
+                                                              },
+                                                              {
+                                                                "id": "e47",
+                                                                "name": "测试案例编码",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "",
+                                                                "bounding_box": {
+                                                                  "x": 1016,
+                                                                  "y": 472,
+                                                                  "width": 99,
+                                                                  "height": 23
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "TextPatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e48",
+                                                                "name": "XXXX-XXXX-XXXX-XXXX",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "",
+                                                                "bounding_box": {
+                                                                  "x": 1016,
+                                                                  "y": 501,
+                                                                  "width": 236,
+                                                                  "height": 28
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "TextPatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e49",
+                                                                "name": "测试窗口剩余",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "",
+                                                                "bounding_box": {
+                                                                  "x": 1524,
+                                                                  "y": 468,
+                                                                  "width": 100,
+                                                                  "height": 23
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "TextPatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e50",
+                                                                "name": "00:00",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "",
+                                                                "bounding_box": {
+                                                                  "x": 1524,
+                                                                  "y": 498,
+                                                                  "width": 66,
+                                                                  "height": 35
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "TextPatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e51",
+                                                                "name": "机器狗程序剩余",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "",
+                                                                "bounding_box": {
+                                                                  "x": 1822,
+                                                                  "y": 471,
+                                                                  "width": 116,
+                                                                  "height": 23
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "TextPatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e52",
+                                                                "name": "尚未进入",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "",
+                                                                "bounding_box": {
+                                                                  "x": 1822,
+                                                                  "y": 501,
+                                                                  "width": 85,
+                                                                  "height": 29
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "TextPatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e53",
+                                                                "name": "接口端口",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "",
+                                                                "bounding_box": {
+                                                                  "x": 2155,
+                                                                  "y": 468,
+                                                                  "width": 67,
+                                                                  "height": 23
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "TextPatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e54",
+                                                                "name": "2026",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "",
+                                                                "bounding_box": {
+                                                                  "x": 2155,
+                                                                  "y": 498,
+                                                                  "width": 60,
+                                                                  "height": 35
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "TextPatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e55",
+                                                                "name": "中止测试",
+                                                                "automation_id": "",
+                                                                "control_type": "Button",
+                                                                "class_name": "danger-button",
+                                                                "bounding_box": {
+                                                                  "x": 2299,
+                                                                  "y": 472,
+                                                                  "width": 178,
+                                                                  "height": 58
+                                                                },
+                                                                "is_enabled": false,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "InvokePatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e56",
+                                                                "name": "",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "run-operation-error",
+                                                                "bounding_box": {
+                                                                  "x": 986,
+                                                                  "y": 563,
+                                                                  "width": 1521,
+                                                                  "height": 52
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": [
+                                                                  {
+                                                                    "id": "e57",
+                                                                    "name": "连接服务器超时，请检查网络后重试",
+                                                                    "automation_id": "",
+                                                                    "control_type": "Text",
+                                                                    "class_name": "",
+                                                                    "bounding_box": {
+                                                                      "x": 1016,
+                                                                      "y": 575,
+                                                                      "width": 288,
+                                                                      "height": 25
+                                                                    },
+                                                                    "is_enabled": true,
+                                                                    "is_visible": true,
+                                                                    "patterns": [
+                                                                      "TextPatternIdentifiers.Pattern",
+                                                                      "ScrollItemPatternIdentifiers.Pattern"
+                                                                    ],
+                                                                    "value": null,
+                                                                    "children": []
+                                                                  }
+                                                                ]
+                                                              },
+                                                              {
+                                                                "id": "e58",
+                                                                "name": "指令与反馈",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "",
+                                                                "bounding_box": {
+                                                                  "x": 1016,
+                                                                  "y": 627,
+                                                                  "width": 135,
+                                                                  "height": 31
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e59",
+                                                                "name": "仅显示最新1000条",
+                                                                "automation_id": "",
+                                                                "control_type": "Text",
+                                                                "class_name": "",
+                                                                "bounding_box": {
+                                                                  "x": 1016,
+                                                                  "y": 660,
+                                                                  "width": 135,
+                                                                  "height": 23
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "TextPatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "id": "e60",
+                                                                "name": "",
+                                                                "automation_id": "",
+                                                                "control_type": "Table",
+                                                                "class_name": "data-table",
+                                                                "bounding_box": {
+                                                                  "x": 986,
+                                                                  "y": 695,
+                                                                  "width": 1498,
+                                                                  "height": 482
+                                                                },
+                                                                "is_enabled": true,
+                                                                "is_visible": true,
+                                                                "patterns": [
+                                                                  "GridPatternIdentifiers.Pattern",
+                                                                  "TablePatternIdentifiers.Pattern",
+                                                                  "ScrollItemPatternIdentifiers.Pattern"
+                                                                ],
+                                                                "value": null,
+                                                                "children": [
+                                                                  {
+                                                                    "id": "e61",
+                                                                    "name": "",
+                                                                    "automation_id": "",
+                                                                    "control_type": "DataItem",
+                                                                    "class_name": "",
+                                                                    "bounding_box": {
+                                                                      "x": 986,
+                                                                      "y": 695,
+                                                                      "width": 1498,
+                                                                      "height": 61
+                                                                    },
+                                                                    "is_enabled": true,
+                                                                    "is_visible": true,
+                                                                    "patterns": [
+                                                                      "ScrollItemPatternIdentifiers.Pattern"
+                                                                    ],
+                                                                    "value": null,
+                                                                    "children": [
+                                                                      {
+                                                                        "id": "e62",
+                                                                        "name": "接收时间",
+                                                                        "automation_id": "",
+                                                                        "control_type": "DataItem",
+                                                                        "class_name": "",
+                                                                        "bounding_box": {
+                                                                          "x": 986,
+                                                                          "y": 695,
+                                                                          "width": 304,
+                                                                          "height": 61
+                                                                        },
+                                                                        "is_enabled": true,
+                                                                        "is_visible": true,
+                                                                        "patterns": [
+                                                                          "GridItemPatternIdentifiers.Pattern",
+                                                                          "TableItemPatternIdentifiers.Pattern",
+                                                                          "ScrollItemPatternIdentifiers.Pattern"
+                                                                        ],
+                                                                        "value": null,
+                                                                        "children": []
+                                                                      },
+                                                                      {
+                                                                        "id": "e63",
+                                                                        "name": "指令",
+                                                                        "automation_id": "",
+                                                                        "control_type": "DataItem",
+                                                                        "class_name": "",
+                                                                        "bounding_box": {
+                                                                          "x": 1289,
+                                                                          "y": 695,
+                                                                          "width": 197,
+                                                                          "height": 61
+                                                                        },
+                                                                        "is_enabled": true,
+                                                                        "is_visible": true,
+                                                                        "patterns": [
+                                                                          "GridItemPatternIdentifiers.Pattern",
+                                                                          "TableItemPatternIdentifiers.Pattern",
+                                                                          "ScrollItemPatternIdentifiers.Pattern"
+                                                                        ],
+                                                                        "value": null,
+                                                                        "children": []
+                                                                      },
+                                                                      {
+                                                                        "id": "e64",
+                                                                        "name": "位置",
+                                                                        "automation_id": "",
+                                                                        "control_type": "DataItem",
+                                                                        "class_name": "",
+                                                                        "bounding_box": {
+                                                                          "x": 1485,
+                                                                          "y": 695,
+                                                                          "width": 197,
+                                                                          "height": 61
+                                                                        },
+                                                                        "is_enabled": true,
+                                                                        "is_visible": true,
+                                                                        "patterns": [
+                                                                          "GridItemPatternIdentifiers.Pattern",
+                                                                          "TableItemPatternIdentifiers.Pattern",
+                                                                          "ScrollItemPatternIdentifiers.Pattern"
+                                                                        ],
+                                                                        "value": null,
+                                                                        "children": []
+                                                                      },
+                                                                      {
+                                                                        "id": "e65",
+                                                                        "name": "频道",
+                                                                        "automation_id": "",
+                                                                        "control_type": "DataItem",
+                                                                        "class_name": "",
+                                                                        "bounding_box": {
+                                                                          "x": 1681,
+                                                                          "y": 695,
+                                                                          "width": 197,
+                                                                          "height": 61
+                                                                        },
+                                                                        "is_enabled": true,
+                                                                        "is_visible": true,
+                                                                        "patterns": [
+                                                                          "GridItemPatternIdentifiers.Pattern",
+                                                                          "TableItemPatternIdentifiers.Pattern",
+                                                                          "ScrollItemPatternIdentifiers.Pattern"
+                                                                        ],
+                                                                        "value": null,
+                                                                        "children": []
+                                                                      },
+                                                                      {
+                                                                        "id": "e66",
+                                                                        "name": "响应摘要",
+                                                                        "automation_id": "",
+                                                                        "control_type": "DataItem",
+                                                                        "class_name": "",
+                                                                        "bounding_box": {
+                                                                          "x": 1877,
+                                                                          "y": 695,
+                                                                          "width": 304,
+                                                                          "height": 61
+                                                                        },
+                                                                        "is_enabled": true,
+                                                                        "is_visible": true,
+                                                                        "patterns": [
+                                                                          "GridItemPatternIdentifiers.Pattern",
+                                                                          "TableItemPatternIdentifiers.Pattern",
+                                                                          "ScrollItemPatternIdentifiers.Pattern"
+                                                                        ],
+                                                                        "value": null,
+                                                                        "children": []
+                                                                      },
+                                                                      {
+                                                                        "id": "e67",
+                                                                        "name": "虚拟时间",
+                                                                        "automation_id": "",
+                                                                        "control_type": "DataItem",
+                                                                        "class_name": "",
+                                                                        "bounding_box": {
+                                                                          "x": 2180,
+                                                                          "y": 695,
+                                                                          "width": 304,
+                                                                          "height": 61
+                                                                        },
+                                                                        "is_enabled": true,
+                                                                        "is_visible": true,
+                                                                        "patterns": [
+                                                                          "GridItemPatternIdentifiers.Pattern",
+                                                                          "TableItemPatternIdentifiers.Pattern",
+                                                                          "ScrollItemPatternIdentifiers.Pattern"
+                                                                        ],
+                                                                        "value": null,
+                                                                        "children": []
+                                                                      }
+                                                                    ]
+                                                                  },
+                                                                  {
+                                                                    "id": "e68",
+                                                                    "name": "",
+                                                                    "automation_id": "",
+                                                                    "control_type": "DataItem",
+                                                                    "class_name": "empty-row live-empty-row",
+                                                                    "bounding_box": {
+                                                                      "x": 986,
+                                                                      "y": 755,
+                                                                      "width": 1498,
+                                                                      "height": 421
+                                                                    },
+                                                                    "is_enabled": true,
+                                                                    "is_visible": true,
+                                                                    "patterns": [
+                                                                      "ScrollItemPatternIdentifiers.Pattern"
+                                                                    ],
+                                                                    "value": null,
+                                                                    "children": [
+                                                                      {
+                                                                        "id": "e69",
+                                                                        "name": "等待机器狗发出指令",
+                                                                        "automation_id": "",
+                                                                        "control_type": "DataItem",
+                                                                        "class_name": "",
+                                                                        "bounding_box": {
+                                                                          "x": 986,
+                                                                          "y": 755,
+                                                                          "width": 1498,
+                                                                          "height": 421
+                                                                        },
+                                                                        "is_enabled": true,
+                                                                        "is_visible": true,
+                                                                        "patterns": [
+                                                                          "GridItemPatternIdentifiers.Pattern",
+                                                                          "TableItemPatternIdentifiers.Pattern",
+                                                                          "ScrollItemPatternIdentifiers.Pattern"
+                                                                        ],
+                                                                        "value": null,
+                                                                        "children": []
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "e70",
+                                "name": "",
+                                "automation_id": "",
+                                "control_type": "Pane",
+                                "class_name": "EmbeddedBrowserDownloadView",
+                                "bounding_box": null,
+                                "is_enabled": true,
+                                "is_visible": true,
+                                "patterns": [
+                                  "ScrollItemPatternIdentifiers.Pattern"
+                                ],
+                                "value": null,
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "e71",
+                        "name": "",
+                        "automation_id": "",
+                        "control_type": "Pane",
+                        "class_name": "TopContainerOverlayView",
+                        "bounding_box": {
+                          "x": 644,
+                          "y": 107,
+                          "width": 1899,
+                          "height": 1145
+                        },
+                        "is_enabled": true,
+                        "is_visible": true,
+                        "patterns": [
+                          "ScrollItemPatternIdentifiers.Pattern"
+                        ],
+                        "value": null,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "e72",
+            "name": "无线电干扰源环境模拟器",
+            "automation_id": "TitleBar",
+            "control_type": "TitleBar",
+            "class_name": "",
+            "bounding_box": {
+              "x": 644,
+              "y": 72,
+              "width": 1898,
+              "height": 34
+            },
+            "is_enabled": true,
+            "is_visible": true,
+            "patterns": [],
+            "value": null,
+            "children": [
+              {
+                "id": "e73",
+                "name": "系统菜单栏",
+                "automation_id": "SystemMenuBar",
+                "control_type": "MenuBar",
+                "class_name": "",
+                "bounding_box": {
+                  "x": 644,
+                  "y": 72,
+                  "width": 33,
+                  "height": 33
+                },
+                "is_enabled": true,
+                "is_visible": true,
+                "patterns": [],
+                "value": null,
+                "children": [
+                  {
+                    "id": "e74",
+                    "name": "系统",
+                    "automation_id": "Item 1",
+                    "control_type": "MenuItem",
+                    "class_name": "",
+                    "bounding_box": {
+                      "x": 644,
+                      "y": 72,
+                      "width": 33,
+                      "height": 33
+                    },
+                    "is_enabled": true,
+                    "is_visible": true,
+                    "patterns": [
+                      "ExpandCollapsePatternIdentifiers.Pattern"
+                    ],
+                    "value": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e75",
+                "name": "最小化",
+                "automation_id": "Minimize",
+                "control_type": "Button",
+                "class_name": "",
+                "bounding_box": {
+                  "x": 2331,
+                  "y": 62,
+                  "width": 71,
+                  "height": 44
+                },
+                "is_enabled": true,
+                "is_visible": true,
+                "patterns": [
+                  "InvokePatternIdentifiers.Pattern"
+                ],
+                "value": null,
+                "children": []
+              },
+              {
+                "id": "e76",
+                "name": "最大化",
+                "automation_id": "Maximize",
+                "control_type": "Button",
+                "class_name": "",
+                "bounding_box": {
+                  "x": 2402,
+                  "y": 62,
+                  "width": 70,
+                  "height": 44
+                },
+                "is_enabled": true,
+                "is_visible": true,
+                "patterns": [
+                  "InvokePatternIdentifiers.Pattern"
+                ],
+                "value": null,
+                "children": []
+              },
+              {
+                "id": "e77",
+                "name": "关闭",
+                "automation_id": "Close",
+                "control_type": "Button",
+                "class_name": "",
+                "bounding_box": {
+                  "x": 2472,
+                  "y": 62,
+                  "width": 71,
+                  "height": 44
+                },
+                "is_enabled": true,
+                "is_visible": true,
+                "patterns": [
+                  "InvokePatternIdentifiers.Pattern"
+                ],
+                "value": null,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  "error": null,
+  "error_code": null,
+  "hint": null,
+  "trace_id": "1a8d9142",
+  "timestamp": "2026-09-11T05:29:00.6029753Z"
+}

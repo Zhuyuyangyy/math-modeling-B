@@ -1,0 +1,471 @@
+{
+  "step_m": 25,
+  "cells": 16524,
+  "negative_stations": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      1137.5,
+      512.5
+    ],
+    [
+      1400.0,
+      0.0
+    ],
+    [
+      1437.5,
+      -987.5
+    ],
+    [
+      700.0000000000001,
+      -1212.435565298214
+    ],
+    [
+      -112.5,
+      -1787.5
+    ],
+    [
+      -700.0000000000006,
+      -1212.435565298214
+    ],
+    [
+      -1437.5,
+      -562.5
+    ],
+    [
+      -1400.0,
+      1.7145055188062946e-13
+    ],
+    [
+      -712.5,
+      712.5
+    ],
+    [
+      -699.9999999999997,
+      1212.4355652982142
+    ],
+    [
+      287.5,
+      1287.5
+    ]
+  ],
+  "channels": {
+    "1": {
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    "2": {
+      "negative_station_ids": [],
+      "remaining_cells": 4
+    },
+    "3": {
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "remaining_cells": 3
+    },
+    "4": {
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    "5": {
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    "6": {
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    "7": {
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    "8": {
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    "9": {
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    "10": {
+      "negative_station_ids": [
+        2,
+        4,
+        6
+      ],
+      "remaining_cells": 7
+    },
+    "11": {
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    "12": {
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "remaining_cells": 7
+    },
+    "13": {
+      "negative_station_ids": [
+        2,
+        4,
+        6
+      ],
+      "remaining_cells": 6
+    },
+    "14": {
+      "negative_station_ids": [],
+      "remaining_cells": 4
+    },
+    "15": {
+      "negative_station_ids": [
+        0,
+        1
+      ],
+      "remaining_cells": 2
+    },
+    "16": {
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "remaining_cells": 3
+    },
+    "17": {
+      "negative_station_ids": [
+        0,
+        1
+      ],
+      "remaining_cells": 5
+    },
+    "18": {
+      "negative_station_ids": [
+        2,
+        4,
+        6
+      ],
+      "remaining_cells": 5
+    },
+    "19": {
+      "negative_station_ids": [
+        0,
+        1,
+        2
+      ],
+      "remaining_cells": 3
+    },
+    "20": {
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    }
+  },
+  "rule": "whole-cell disk exclusion for Q3; common-neighbor convex hull contains all four corners for Q4",
+  "retirement_events": [
+    {
+      "channel": 1,
+      "virtual_time_s": 4232.468343,
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    {
+      "channel": 4,
+      "virtual_time_s": 4238.468343,
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    {
+      "channel": 5,
+      "virtual_time_s": 4244.468343,
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    {
+      "channel": 6,
+      "virtual_time_s": 4250.468343,
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    {
+      "channel": 7,
+      "virtual_time_s": 4256.468343,
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    {
+      "channel": 8,
+      "virtual_time_s": 4262.468343,
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    {
+      "channel": 9,
+      "virtual_time_s": 4268.468343,
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    {
+      "channel": 11,
+      "virtual_time_s": 4274.468343,
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    },
+    {
+      "channel": 20,
+      "virtual_time_s": 4280.468343,
+      "negative_station_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "remaining_cells": 0
+    }
+  ]
+}

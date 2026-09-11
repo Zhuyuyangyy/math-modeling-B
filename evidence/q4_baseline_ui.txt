@@ -1,0 +1,51 @@
+Window | 无线电干扰源环境模拟器
+Pane | 无线电干扰源环境模拟器
+Pane | 无线电干扰源环境模拟器 - Web 内容
+Document | 无线电干扰源环境模拟器
+Text | 环境模拟器
+Group | 主导航
+Text | 测试
+Button | 演练测试
+Text | 正式测试
+Button | 问题3正式测试
+Button | 问题4正式测试
+Text | 其他
+Button | 公告
+Button | 账号
+Button | 设置
+Button | 关于
+Text | v1.1
+Text | 无线电干扰源环境模拟器
+Text | 2026年9月13日17:30之后无法启动新的演练测试或正式测试
+StatusBar | 服务器已连接
+Text | 已连接
+Button | 退出登录
+Text | - 重要提醒：正式测试没有上传完成时，不要退出模拟器！
+- 重要提醒：各参赛队在附录中、支撑材料中提交代码时，注意将参赛队号隐去或使用占位符代替，以免违规。建议不要将参赛队号在程序中写死，而是以命令行参数等方式提供。
+Button | 关闭公告
+Group | 问题4 演练 测试
+Text | 问题4 演练 测试
+Text | 测试案例编码
+Text | 5C4E-SB5T-DVXH-ZDGG
+Text | 测试窗口剩余
+Text | 24:31
+Text | 机器狗程序剩余
+Text | 19:56
+Text | 接口端口
+Text | 2026
+Button | 返回演练测试
+Group | 本次演练测试干扰源数量
+Text | 指令与反馈
+Text | 仅显示最新1000条
+Window | 问题4演练测试完成
+Text | 问题4演练测试完成
+Text | 问题4演练测试：机器狗已发送 /exit 指令，测试正常结束。
+本次案例含干扰源14个，其中全向4个、定向10个。
+行为日志已保存。
+Button | 确认
+TitleBar | 无线电干扰源环境模拟器
+MenuBar | 系统菜单栏
+MenuItem | 系统
+Button | 最小化
+Button | 最大化
+Button | 关闭
